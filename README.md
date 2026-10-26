@@ -1,6 +1,6 @@
 <div align="center">
   
-${{\color{#eccd8a}\Large{\textsf{junkrat\}}}}\$ ˣ ${{\color{#eccd8a}\Large{\textsf{roadhog's\}}}}\$ third <img width="25" height="20" alt="bbb" src="https://github.com/user-attachments/assets/0c7c5ae0-dcf5-46ca-bc62-9ccd1ec923bc">
+${{\color{#ffffff}\Large{\textsf{junkrat\}}}}\$ ˣ ${{\color{#ffffff}\Large{\textsf{roadhog's\}}}}\$ third <img width="25" height="20" alt="bbb" src="https://github.com/user-attachments/assets/0c7c5ae0-dcf5-46ca-bc62-9ccd1ec923bc">
 
   <img width="300" height="320" alt="ac" src="https://github.com/user-attachments/assets/8373f54d-cf4d-42c9-8f6d-f5a14239f990" />
 
