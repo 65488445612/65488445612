@@ -1,10 +1,7 @@
 <div align="center">
-  
-${{\color{#ffffff}\Large{\textsf{junkrat\}}}}\$ ˣ ${{\color{#ffffff}\Large{\textsf{roadhog's\}}}}\$ third
+  #joshing
 
-  <img width="150" height="180" alt="ac" src="https://github.com/user-attachments/assets/8373f54d-cf4d-42c9-8f6d-f5a14239f990" />
-
-wip trust da process
+  #wip
 </div>
 
 <!--
